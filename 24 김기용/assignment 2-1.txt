@@ -1,0 +1,17 @@
+commit 1bbb4cb006de6012b5d7772550b5f0743007ef4d (HEAD -> main)
+Author: ky-0922 <kky085437@korea.ac.kr>
+Date:   Mon May 13 20:14:31 2024 +0900
+
+    24 김기용 assignment 2-2
+
+commit 98ef9d02315cdbb8ee82f0f80823121c4b7cd2bc
+Author: ky-0922 <kky085437@korea.ac.kr>
+Date:   Mon May 13 20:12:23 2024 +0900
+
+    24 김기용 assignment 2-1
+
+commit e7db7ef768617b050f73db7460bc1913b1728e59 (origin/main)
+Author: ky-0922 <kky085437@korea.ac.kr>
+Date:   Fri May 10 15:38:54 2024 +0900
+
+    first commit
